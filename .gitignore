@@ -1,0 +1,15 @@
+.vs
+.DS_Store
+.vscode
+.coverage
+__pycache__
+__temp__/*
+docker-compose.yml
+Dockerfile
+modules/conn_server/files/connectivity
+htmlcov/*
+local/
+*.pyc
+/rac
+/scanforms/bin
+/scanforms/obj

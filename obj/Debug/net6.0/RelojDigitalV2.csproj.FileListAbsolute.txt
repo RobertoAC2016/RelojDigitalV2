@@ -1,0 +1,15 @@
+D:\RAC\NET\RelojDigitalV2\bin\Debug\net6.0\RelojDigitalV2.exe
+D:\RAC\NET\RelojDigitalV2\bin\Debug\net6.0\RelojDigitalV2.deps.json
+D:\RAC\NET\RelojDigitalV2\bin\Debug\net6.0\RelojDigitalV2.runtimeconfig.json
+D:\RAC\NET\RelojDigitalV2\bin\Debug\net6.0\RelojDigitalV2.dll
+D:\RAC\NET\RelojDigitalV2\bin\Debug\net6.0\RelojDigitalV2.pdb
+D:\RAC\NET\RelojDigitalV2\obj\Debug\net6.0\RelojDigitalV2.csproj.AssemblyReference.cache
+D:\RAC\NET\RelojDigitalV2\obj\Debug\net6.0\RelojDigitalV2.GeneratedMSBuildEditorConfig.editorconfig
+D:\RAC\NET\RelojDigitalV2\obj\Debug\net6.0\RelojDigitalV2.AssemblyInfoInputs.cache
+D:\RAC\NET\RelojDigitalV2\obj\Debug\net6.0\RelojDigitalV2.AssemblyInfo.cs
+D:\RAC\NET\RelojDigitalV2\obj\Debug\net6.0\RelojDigitalV2.csproj.CoreCompileInputs.cache
+D:\RAC\NET\RelojDigitalV2\obj\Debug\net6.0\RelojDigitalV2.dll
+D:\RAC\NET\RelojDigitalV2\obj\Debug\net6.0\refint\RelojDigitalV2.dll
+D:\RAC\NET\RelojDigitalV2\obj\Debug\net6.0\RelojDigitalV2.pdb
+D:\RAC\NET\RelojDigitalV2\obj\Debug\net6.0\RelojDigitalV2.genruntimeconfig.cache
+D:\RAC\NET\RelojDigitalV2\obj\Debug\net6.0\ref\RelojDigitalV2.dll
