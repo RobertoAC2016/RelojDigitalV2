@@ -15,3 +15,12 @@ local/
 /scanforms/obj
 /obj
 /bin
+
+/obj/
+/bin/
+
+obj
+bin
+
+obj/
+bin/
